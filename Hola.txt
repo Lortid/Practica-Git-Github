@@ -1,6 +1,5 @@
-
 Hola Soy Jaime Osorio y estoy aprendiendo Git y Github con Platzi.
->>>>>>> cabecera
+
 
 Me gusta el anime de Jujutsu Kaisen y Kimetsu no yaiba.
 
