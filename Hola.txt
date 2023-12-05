@@ -6,5 +6,7 @@ Me gusta jugar Brawl Stars
 
 Soy un estudiante de Ingeniería de Sistemas de la Universidad Nacional de Colombia sede Medellín de primer semestre.
 
+A continuación haré un merge entre rama1, rama2 y master
+
 
 
