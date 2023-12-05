@@ -1,12 +1,13 @@
-Hola Soy Jaime Osorio y estoy aprendiendo Git y Github con Platzi, Voy bien.
+- Hola Soy Jaime Osorio y estoy aprendiendo git y github con platzi, voy bien.
 
-Me gusta el anime de Jujutsu Kaisen y Kimetsu no yaiba.
+- Me gusta el anime de Jujutsu Kaisen y Kimetsu no yaiba.
 
-Me gusta jugar Brawl Stars y free fire
+- Me gusta jugar Brawl Stars y free fire.
 
-Soy un estudiante de Ingeniería de Sistemas de la Universidad Nacional de Colombia sede Medellín de primer semestre.
+- Soy un estudiante de Ingeniería de Sistemas de la Universidad Nacional de Colombia sede Medellín de primer semestre.
 
-A continuación haré un merge entre rama1, rama2 y master
+- A continuación haré un merge entre rama1, rama2 y master.
+
 
 
 
