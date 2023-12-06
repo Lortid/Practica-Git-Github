@@ -7,4 +7,7 @@ if a.lower() == "jaime osorio" and b.lower() == "ingeniería de sistemas":
 
 else:
     print("No eres Jaime Osorio")
+
+    for i in range(0,5):
+        print("Por favor ingresa el nombre correcto, si no eres Jaime no tengas en cuenta esto y no ejecutes más el programa")
     
