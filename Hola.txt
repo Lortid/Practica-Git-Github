@@ -10,4 +10,10 @@
 
 - Haré cambios en este repositorio y contribuiré con el repositorio de lortid, por que me pareció bonito y me sirve para practicar :).
 
+- Probaré el rebase.
+
+- Compararé los cambios.
+
+
+
 
