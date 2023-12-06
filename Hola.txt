@@ -8,6 +8,6 @@
 
 - A continuación haré un merge entre rama1, rama2 y master.
 
-
+- Haré cambios en este repositorio y contribuiré con el repositorio de lortid, por que me pareció bonito y me sirve para practicar.
 
 
