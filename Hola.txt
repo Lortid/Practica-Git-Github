@@ -6,7 +6,7 @@
 
 - Soy un estudiante de Ingeniería de Sistemas de la Universidad Nacional de Colombia sede Medellín de primer semestre.
 
-- A continuación haré un merge entre rama1, rama2 y master.
+- A continuación haré un merge entre rama1, rama2 y master esto es muy buena práctica.
 
 - Haré cambios en este repositorio y contribuiré con el repositorio de lortid, por que me pareció bonito y me sirve para practicar :).
 
