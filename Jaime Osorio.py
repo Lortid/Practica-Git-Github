@@ -1,5 +1,3 @@
-import math
-
 a = input("Ingresa tu nombre :")
 b = input("Ingresa lo que estudias:")
 
